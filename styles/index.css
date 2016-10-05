@@ -78,19 +78,23 @@ p {
     color: #333;
 }
 
-.bd img.me {
+/*
+    INDEX SPEC STYLES
+*/
+.index-content {
+    position: relative;
+}
+
+.index-content p {
+    max-width: 600px;
+}
+
+.index-content img.me {
     width: 150px;
     position: absolute;
     right: 0;
     top: 0;
     box-shadow: 0 0 3px 3px #ccc;
-}
-
-/*
-    INDEX SPEC STYLES
-*/
-.index-content p {
-    max-width: 600px;
 }
 
 /*
