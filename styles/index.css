@@ -10,6 +10,10 @@ p {
     line-height: 1.4;
 }
 
+h1 {
+    line-height: 2;
+}
+
 .container {
     width: 800px;
     margin: 0 auto;
@@ -81,16 +85,17 @@ p {
 /*
     INDEX SPEC STYLES
 */
+
 .index-content {
     position: relative;
 }
 
 .index-content p {
-    max-width: 600px;
+    max-width: 570px;
 }
 
 .index-content img.me {
-    width: 150px;
+    width: 200px;
     position: absolute;
     right: 0;
     top: 0;
@@ -130,4 +135,12 @@ p {
 
 .cv-content .sp-after {
     margin-right: 10px;
+}
+
+.cv-content ul > li {
+    transition: .3s ease-out background;
+}
+
+.cv-content ul > li:hover {
+    background: #eee;
 }
