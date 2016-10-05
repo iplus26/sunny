@@ -78,7 +78,7 @@ h1 {
 */
 
 .bd .container {
-    padding: 10px 0 40px;
+    padding: 10px 0 100px;
     color: #333;
 }
 
@@ -103,7 +103,7 @@ h1 {
 }
 
 /*
-    CV SPEC STYLES
+    CV && RE SPEC STYLES
 */
 
 .cv-content h2 {
