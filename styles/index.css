@@ -1,0 +1,29 @@
+html, body {
+    font-family: serif;
+}
+
+.hd {
+    color: #eee;
+    background: rgb(0, 100, 250);
+    padding-top: 100px;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.hd .nav div {
+    display: inline-block;
+}
+
+.hd .nav {
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 20px;
+}
+
+.hd .nav div a {
+    text-decoration: none;
+    color: inherit;
+}

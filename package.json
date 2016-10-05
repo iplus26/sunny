@@ -1,0 +1,23 @@
+{
+  "name": "sunny",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iplus26/sunny.git"
+  },
+  "author": "Ivan Jiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iplus26/sunny/issues"
+  },
+  "homepage": "https://github.com/iplus26/sunny#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "normalize.css": "^5.0.0"
+  }
+}
